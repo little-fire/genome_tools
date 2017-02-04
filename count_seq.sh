@@ -1,4 +1,4 @@
 #!/bin/bash
 #USage: bash count_seq.sh
 
-grep -c ">" #1
+grep -c ">" $1
